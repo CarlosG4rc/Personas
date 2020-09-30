@@ -1,0 +1,4 @@
+1;Carlos;García;14/07/1993
+2;Leticia;Hernández;09/01/1993
+3;Rosa;Campos;12/06/1961
+4;Manuel;Heredia;26/12/1973
